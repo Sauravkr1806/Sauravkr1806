@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, 👋 I am Saurav Kumar
+
+#### I am currently student at National Institute of Technology, Patna, Bihar
 
 <!--
 **Sauravkr1806/Sauravkr1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
